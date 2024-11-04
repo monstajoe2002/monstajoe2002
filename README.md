@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project Explorer](https://github.com/monstajoe2002/project-explorer)
 
-- 🌱 I’m currently learning **React, Next.js, SvelteKit**
+- 🌱 I’m currently learning **Next.js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://monstajoe-astro-portfolio.vercel.app/](https://monstajoe-astro-portfolio.vercel.app/)
 
