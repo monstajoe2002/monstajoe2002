@@ -38,4 +38,5 @@ Check out my recent articles on my [personal website](https://youssef-elshehaby-
 
 ## Connect with Me
 
-{"twitter":"https://twitter.com/monstajoedev","youtube":"https://youtube.com/@monstajoedev","bluesky":"https://bsky.app/profile/monstajoe.bsky.social"}
+[**Twitter**](https://x.com/monstajoedev) |
+[**Bluesky**](https://bsky.app/profile/monstajoe.bsky.social) 
