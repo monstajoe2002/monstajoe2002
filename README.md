@@ -1,28 +1,41 @@
-<h1 align="center">Hi 👋, I'm monstajoe</h1>
-<h3 align="center">A graduating Computer Science Student from the GIU and a software developer</h3>
+## Hi there! 👋
 
-<p align="left"> <a href="https://twitter.com/monstajoedev" target="blank"><img src="https://img.shields.io/twitter/follow/monstajoedev?logo=twitter&style=for-the-badge" alt="monstajoedev" /></a> </p>
+I'm **Youssef Amr El-Shehaby**, a passionate software developer who loves building innovative applications. I am a **2024 Computer Science graduate** from **GIU**, and I enjoy turning ideas into reality through code!
 
-- 🔭 I’m currently working on [Project Explorer](https://github.com/monstajoe2002/project-explorer)
+## About Me
 
-- 🌱 I’m currently learning **Next.js, React Native**
+Based in **Cairo, Egypt**, I am an enthusiastic developer with a knack for tackling challenging problems. I thrive in collaborative environments and am always eager to learn and grow in the ever-evolving tech landscape.
 
-- 👨‍💻 All of my projects are available at [https://youssef-elshehaby-portfolio.vercel.app/](https://youssef-elshehaby-portfolio.vercel.app/)
+## Skills & Technologies
 
-- 💬 Ask me about **react, typescript, next**
+js,ts,react,nextjs,vue,tailwind,html,css,sass,py,java,rust
 
-- 📫 How to reach me **monstajoe.elshehaby@proton.me**
+## Top Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/monstajoedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monstajoedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef-el-shehaby-2ba3a1245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-el-shehaby-2ba3a1245" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/monstajoedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monstajoedev" height="30" width="40" /></a>
-</p>
+- [**amrelshehaby**](https://github.com/monstajoe2002/nextvideo) - A YouTube clone built using Next.js, Cloudinary, Convex, and shadcn - ⭐ 2 stars
+- [**saqaya-ecommerce**](https://github.com/monstajoe2002/saqaya-ecommerce) - An eCommerce platform with modern features - ⭐ 0 stars
+- [**bosta-shipment**](https://github.com/monstajoe2002/bosta-shipment) - A shipping management system - ⭐ 0 stars
+- [**privacypack**](https://github.com/monstajoe2002/privacypack) - A collection of privacy-focused applications - ⭐ 0 stars
+- [**shadcn-blog**](https://github.com/monstajoe2002/shadcn-blog) - A simple blog site built using Next.js 13 and shadcn/ui - ⭐ 1 star
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monstajoe2002&show_icons=true&locale=en&layout=compact" alt="monstajoe2002" /></p>
+🔭 **Public Repositories:** 50  
+👥 **Followers:** 10  
+👤 **Following:** 10  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monstajoe2002&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monstajoe2002&show_icons=true&locale=en" alt="monstajoe2002" /></p>
+## Recent Activity
+
+- 🌟 Opened a pull request to add Thunderbird to private alternatives in [privacypack](https://github.com/ente-io/privacypack/pull/41)    
+- 📦 Contributed to [saqaya-ecommerce](https://github.com/monstajoe2002/saqaya-ecommerce)  
+- 💻 Made several commits to improve [shadcn-blog](https://github.com/monstajoe2002/shadcn-blog)  
+- 🛠️ Updated dependencies in [bosta-shipment](https://github.com/monstajoe2002/bosta-shipment)
+
+## Latest Blog Posts
+
+Check out my recent articles on my [personal website](https://youssef-elshehaby-portfolio.vercel.app/).
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/monstajoedev","youtube":"https://youtube.com/@monstajoedev","bluesky":"https://bsky.app/profile/monstajoe.bsky.social"}
